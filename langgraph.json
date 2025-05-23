@@ -1,0 +1,8 @@
+{
+  "graphs": {
+    "chat_graph": "main:app"
+  },
+  "dependencies": [
+    "chat_graph"
+  ]
+}
